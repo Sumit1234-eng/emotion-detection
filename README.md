@@ -20,4 +20,5 @@ Install these prerequisites before proceeding-
  haarcascade_frontalface_default.xml
  
  # Model Summary
- 
+ [img99.pdf](https://github.com/Sumit1234-eng/emotion-detection/files/7686466/img99.pdf)
+
